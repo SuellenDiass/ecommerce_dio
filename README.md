@@ -35,13 +35,13 @@ Terceiro_vendedor : vende mais que um produto, relacionado a produto, terceiriza
 Refine o modelo apresentado acrescentando os seguintes pontos:
 
 Cliente PJ e PF – Uma conta pode ser PJ ou PF, mas não pode ter as duas informações;
-R: na entidade Cliente criei um atributo numeroDocumento
+- [x] R: na entidade Cliente criei um atributo numeroDocumento
 
 Pagamento – Pode ter cadastrado mais de uma forma de pagamento;
-R: criei um entidade Pagamento com atributo forma de pagamento, relacionado a pedido
+- [x] R: criei um entidade Pagamento com atributo forma de pagamento, relacionado a pedido
 
 Entrega – Possui status e código de rastreio;
-R:foi criado um atributo na entidade Pedido
+- [x] R:foi criado um atributo na entidade Pedido
 
 Observações:
 Foi meu primeiro contato com Banco de dados e modelagem de dados, nesse projeto tive a oportunidade de replicar o que foi ensinado pela mentora Juliana Mascarenhas.
