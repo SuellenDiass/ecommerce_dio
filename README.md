@@ -1,9 +1,9 @@
-# ecommerce_dio
+<h1> ecommerce_dio</h1>
 
 
 -------
 
-Vendas de produtos, uma aplicação que vai fazer uso do banco de dados para poder vender produtos, fornecendo valores e dados para o e-commerce. Contem nesse projeto, Produto, Estoque, Fornecedor, Pedido e Cliente
+<h2>Vendas de produtos, uma aplicação que vai fazer uso do banco de dados para poder vender produtos, fornecendo valores e dados para o e-commerce. Contem nesse projeto, Produto, Estoque, Fornecedor, Pedido e Cliente</h2>
 
 
 Cliente faz o pedido, dentro do pedido tem o produto que pode estar em estoque ou não, e o produto está associado ao fornecedor.
@@ -44,4 +44,7 @@ R:foi criado um atributo na entidade Pedido
 Observações:
 Foi meu primeiro contato com Banco de dados e modelagem de dados, nesse projeto tive a oportunidade de replicar o que foi ensinado pela mentora Juliana Mascarenhas.
 Há alguns erros mesmo assim optei por entregar o projeto da forma que está.
+
+![ecommerce_suellen_dio](https://user-images.githubusercontent.com/102911341/191230701-cb06646f-00dc-4711-9ad5-e2864c2a5777.png)
+
 
