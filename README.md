@@ -49,4 +49,10 @@ Há alguns erros mesmo assim optei por entregar o projeto da forma que está.
 
 ![ecommerce_suellen_dio](https://user-images.githubusercontent.com/102911341/191230701-cb06646f-00dc-4711-9ad5-e2864c2a5777.png)
 
+### Curso feito na Dio.me com a mentora Juliana Mascarenhas -Tech Education Especialist Dio/Owner- na  Dio 
+
+## links úteis
+
+[Dio.me](https://www.dio.me/)
+
 
